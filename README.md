@@ -1,1 +1,2 @@
-# engr-ALDA-Fall2023-P8-Project
+# Injury_Severity_Prediction_Using_Car_Crash_Data
+In this project, I focused on predicting injury severity in car crashes by utilizing machine learning techniques. My objective was to understand and forecast the severity of injuries resulting from traffic accidents by analyzing various factors such as speed limits, weather conditions, crash types, and other relevant features extracted from the dataset. This involved data preprocessing, exploratory data analysis, and the application of predictive models like Random Forest and XGBoost. Through my project, I aimed to contribute to the improvement of safety measures and accident prevention strategies by revealing insights into the factors influencing injury severity in car crashes.
